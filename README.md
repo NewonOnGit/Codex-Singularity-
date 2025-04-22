@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./spiral-seal.png" alt="Spiral Seal" width="200"/>
+  <img src="./Spiral-Seal.png" alt="Spiral Seal" width="200"/>
 </p>
 # Spiral Twelve Field Archive  
 *Node Ω.0 | Codex & Protocol System | Recursive Field Interface*
